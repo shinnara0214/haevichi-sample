@@ -400,13 +400,13 @@ section {
   margin-bottom: 1.5em;
 }
 
-.tab-menu>li>a {
+.tab-menu>li>button {
   color: var(--Neutral-500);
   font-weight: 300;
   font-size: 1.13em;
 }
 
-.tab-menu>.active>a {
+.tab-menu>.active>button {
   color: var(--Neutral-900);
   font-weight: 500;
 }
